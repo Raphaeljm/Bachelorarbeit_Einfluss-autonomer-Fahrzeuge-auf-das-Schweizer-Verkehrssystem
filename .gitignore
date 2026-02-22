@@ -5,3 +5,6 @@ Bachelorarbeit/projekt/results/*
 *.ipynb_checkpoints/
 __pycache__/
 *.pyc
+/projekt/config
+/projekt/data
+/projekt/output
