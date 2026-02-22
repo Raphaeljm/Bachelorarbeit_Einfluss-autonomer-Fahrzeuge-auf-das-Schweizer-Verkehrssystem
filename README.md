@@ -20,21 +20,21 @@ Folgende Verzeichnisse sind absichtlich nicht im Repository enthalten:
 Das Repository enthält daher nur den reproduzierbaren Code und die Ergebnisstruktur. Um die komplette Pipeline auszuführen, benötigen Sie Zugriff auf die Originaldaten und eigene API-Schlüssel.
 
 ## Ordnerstruktur (öffentlicher Teil)
-projekt/
-├── .venv/  
-├── scripts/                    # Alle Python-Skripte der Analyse-Pipeline
-│   ├── 01_api_fetch.py
-│   ├── 02_data_preparation_pipeline.py
-│   ├── 03_data_finalisation.py
-│   └── 04_model_pipeline.py
-├── results/                    # Beispiel-Ergebnisdateien (Modalsplit, Elastizitäten, Logs)
-│   ├── modalsplit_summary.csv
-│   ├── prognose_detailed.csv
-│   ├── model_parameters.csv
-│   ├── elastizitaeten_direkt.csv
-│   └── pipeline_log.txt
-├── README.md
-└── requirements.txt
+projekt/<br>
+├── .venv/<br>  
+├── scripts/                    # Alle Python-Skripte der Analyse-Pipeline<br>
+│   ├── 01_api_fetch.py<br>
+│   ├── 02_data_preparation_pipeline.py<br>
+│   ├── 03_data_finalisation.py<br>
+│   └── 04_model_pipeline.py<br>
+├── results/                    # Beispiel-Ergebnisdateien (Modalsplit, Elastizitäten, Logs)<br>
+│   ├── modalsplit_summary.csv<br>
+│   ├── prognose_detailed.csv<br>
+│   ├── model_parameters.csv<br>
+│   ├── elastizitaeten_direkt.csv<br>
+│   └── pipeline_log.txt<br>
+├── README.md<br>
+└── requirements.txt<br>
 
 Nicht enthalten / ignoriert:  
 `config/` – `data/` – `output/`
