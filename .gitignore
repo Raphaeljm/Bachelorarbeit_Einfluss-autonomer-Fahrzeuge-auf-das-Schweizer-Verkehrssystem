@@ -1,0 +1,7 @@
+Bachelorarbeit/projekt/data/*
+Bachelorarbeit/projekt/output/*
+Bachelorarbeit/projekt/config/*
+Bachelorarbeit/projekt/results/*
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc

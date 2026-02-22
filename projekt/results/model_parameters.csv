@@ -1,0 +1,6 @@
+Parameter;Wert;Einheit
+const (MIV);-0.30898969094761264;
+income;4.284533968873538e-06;pro CHF/Jahr
+delta_ttt;-0.008056714403893573;pro Minute
+delta_cost;-2.570840566803311e-05;pro CHF
+VTTS (CHF/h);52,23;CHF/Stunde

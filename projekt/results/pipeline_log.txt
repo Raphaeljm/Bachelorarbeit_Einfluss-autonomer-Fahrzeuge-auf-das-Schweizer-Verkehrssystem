@@ -1,0 +1,5 @@
+PIPELINE AUSGEFÜHRT: 04.02.2026 19:50
+- Binäres Modell:       34,376 Beobachtungen
+- Wert der Reisezeitersparnis (VTTS): 52,23 CHF/Stunde
+- Modalsplit:           MIV 37.1% | ÖV 28.1% | AV 34.8%
+- Elastizitäten (AV):   Preis -0.021   |   Zeit -0.053
