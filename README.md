@@ -58,14 +58,14 @@ Nicht enthalten / ignoriert:
    source .venv/bin/activate          # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
 3. API-Schlüssel bereitstellen
-   Erstellen Sie den Ordner config/ und legen Sie dort zwei reine Textdateien an:
-   config/
-   ├── distance_matrix_api_key.txt
+   Erstellen Sie den Ordner config/ und legen Sie dort zwei reine Textdateien an:<br>
+   config/<br>
+   ├── distance_matrix_api_key.txt<br>
    └── directions_api_key.txt
 4. Eingabedaten bereitstellen
-   MZMV-Datensätze in (nicht versionierten) Ordner data/ legen:
-   data/
-   ├── wege.csv
+   MZMV-Datensätze in (nicht versionierten) Ordner data/ legen:<br>
+   data/<br>
+   ├── wege.csv<br>
    └── haushalte.csv
 
 ## Ausführung der Pipeline
@@ -85,12 +85,12 @@ Hinweis: Die Pfade in den Skripten sind teilweise absolut codiert – ggf. anpas
   MIV 37 % | ÖV 28 % | AV 35 %
 - VTTS: 52.23 CHF pro Stunde
 - Direkte Elastizitäten AV:
-  Preis: –0.060 | Zeit: –0.151
+  Preis: –0.060 | Zeit: –0.151<br>
   → Reisezeit ist ca. 2.5-mal entscheidender als Preis
 
 ## Kontakt
-Raphael Meier
-Hochschule Luzern – Wirtschaft
-raphael.meier@stud.hslu.ch
-Betreut von: Dr. Martin Schonger
+Raphael Meier<br>
+Hochschule Luzern – Wirtschaft<br>
+raphael.meier@stud.hslu.ch<br>
+Betreut von: Dr. Martin Schonger<br>
 Februar 2026
