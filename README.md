@@ -33,7 +33,6 @@ projekt/<br>
 │   ├── model_parameters.csv<br>
 │   ├── elastizitaeten_direkt.csv<br>
 │   └── pipeline_log.txt<br>
-├── README.md<br>
 └── requirements.txt<br>
 
 Nicht enthalten / ignoriert:  
